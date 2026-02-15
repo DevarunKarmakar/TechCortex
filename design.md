@@ -6,7 +6,7 @@ DevAccelerator AI is a cloud-based intelligent platform that leverages artificia
 
 ### Key Design Principles
 
-- **Modularity**: Loosely coupled components for independent scaling and maintenance
+- **Modularity**: Loosely coupled components for independent scaling and maintenance   
 - **Scalability**: Horizontal scaling capabilities to handle multiple concurrent users
 - **Performance**: Asynchronous processing and caching for optimal response times
 - **Security**: Defense-in-depth approach with multiple security layers
